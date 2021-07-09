@@ -1,0 +1,6 @@
+#app {
+    background-color: rgb(37, 3, 3);
+    display: grid;
+    place-content: center;
+    height: 100vh;
+}
